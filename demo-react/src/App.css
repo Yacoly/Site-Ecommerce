@@ -1,0 +1,247 @@
+a.nav-link {
+  color: black;
+}
+.carousel-item-perso {
+  height: 400px;
+}
+h5.para1 {
+  padding-top: 8%;
+  color: crimson;
+  font-size: x-large;
+}
+h1.title {
+  font-size: 76px;
+  font-family: auto;
+}
+p.para-left {
+  padding-top: 5%;
+}
+p.paragraph {
+  padding-top: 5%;
+  font-size: larger;
+}
+a.btn.btn-outline-dark.ms-3 {
+  background-color: crimson;
+  border: none;
+  color: cornsilk;
+}
+.button-e {
+  padding-top: 4%;
+}
+p.paragraph {
+  padding-top: 5%;
+}
+a.btn.btn-outline-dark.ms-3 {
+  padding: 2%;
+  width: 27%;
+}
+.title-prod {
+  text-align: center;
+  padding-top: 5%;
+  font-family: auto;
+  padding-bottom: 10px;
+}
+
+img.rounded-m {
+  width: 23%;
+}
+.image-card {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 3%;
+}
+a.btn.btn-primary {
+  background-color: deeppink;
+  width: 15%;
+  border: none;
+  padding: 1%;
+}
+.button {
+  text-align: center;
+  padding-top: 3%;
+}
+h3.title-co {
+  text-align: center;
+  padding-top: 2%;
+}
+
+boutton.title-hab {
+  font-size: 27px;
+  border-radius: 7%;
+}
+.button-v {
+  padding-top: 4%;
+  padding-bottom: 2%;
+}
+
+.image-produit {
+  height: 250px;
+}
+.image-right {
+  padding-left: 19%;
+  padding-top: 5%;
+}
+.shoe-title {
+  text-align: center;
+  padding-top: 3%;
+}
+.réseau {
+  display: flex;
+  gap: 8px;
+}
+.réseau-footer {
+  padding-top: 2%;
+  display: flex;
+  justify-content: space-between;
+  background-color: antiquewhite;
+  padding-bottom: 2%;
+}
+.cont {
+  padding-left: 2%;
+}
+input#staticEmail2 {
+  text-decoration: underline;
+  font-size: 123%;
+}
+button.btn.btn-primary.mb-3 {
+  background: antiquewhite;
+  border-color: black;
+  color: black;
+}
+.footer {
+  padding-top: 3%;
+  padding-bottom: 2%;
+  background-color: antiquewhite;
+}
+.col-auto {
+  padding-top: 9%;
+}
+.lien-conexion {
+  padding-right: 4%;
+}
+
+button {
+  background-color: crimson;
+  border-radius: 5%;
+  border: none;
+  padding: 1%;
+}
+
+.btn-container {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 4%;
+}
+a.btn-primary-principal {
+  background-color: crimson !important;
+  padding: 1%;
+  border-radius: 15px;
+  color: white;
+  text-decoration: auto;
+  font-size: 15px;
+}
+a.primair {
+  background-color: crimson !important;
+  padding: 1%;
+  border-radius: 15px;
+  color: white;
+  text-decoration: auto;
+  font-size: 15px;
+}
+.Produit1 {
+  padding-bottom: 2%;
+}
+a.navbar-brand.fw-bold.fs-4 {
+  color: crimson;
+}
+a.navbar-brand.fw-bold.fs-4 {
+  color: crimson;
+  font-family: sans-serif;
+}
+
+.card-body {
+  font-family: sans-serif;
+}
+a.nav-link.active.active {
+  font-family: cursive;
+}
+.btn-success:hover {
+  background-color: crimson;
+}
+.btn.btn-outline-dark.ms-2:hover {
+  background-color: crimson;
+}
+
+button.btn.btn-success-shoping:hover {
+  background-color: crimson;
+}
+
+.form-card {
+  position: absolute;
+  top: 20%;
+}
+section.background-img {
+  background-color: antiquewhite;
+}
+.card-body.px-4.py-5.px-md-5 {
+  background-color: antiquewhite;
+}
+button.btn.btn-primary.btn-block.mb-4 {
+  background-color: black;
+  border: none;
+}
+.card.bg-glass {
+  border: none;
+}
+.col-md-6.col-lg-7.d-flex.align-items-center {
+  background-color: antiquewhite;
+}
+a.nav-link.active.active:hover {
+  color: crimson;
+}
+button.btn.btn-success-shoping {
+  background-color: black;
+  color: aliceblue;
+}
+a.btn.btn-outline-dark.ms-2 {
+  color: white;
+  background-color: black;
+  border: none;
+}
+.col-lg-6.mb-5.mb-lg-0 {
+  font-family: emoji;
+}
+.pt-1.mb-4 {
+  display: flex;
+  justify-content: center;
+}
+h5.fw-normal.mb-3.pb-3 {
+  text-align: center;
+}
+.bton-connexion {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 20px;
+}
+.buton-title {
+  text-align: center;
+  padding-bottom: 10%;
+}
+.page-i {
+  display: flex;
+
+  justify-content: space-between;
+  margin-top: 5%;
+}
+button.btn.btn-primary.btn-block.mb-4 {
+  padding: 10px;
+  width: 25%;
+}
+.oublie {
+  display: flex;
+  justify-content: flex-end;
+}
+td {
+  vertical-align: middle;
+}
